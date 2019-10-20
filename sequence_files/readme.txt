@@ -1,0 +1,2 @@
+this data was taken from “/Users/admin/Desktop/ancestor_roconstruction/all_input_files”.
+the data had the ancestor i am working on inserted so it is not the same as the original used for reconstruction.
