@@ -12,5 +12,5 @@ with open('blosum64.csv', newline="\n") as csvfile:
 with open("converter.py", "w") as f:
     f.write("dic = {\n")
     for key, val in dic.items():
-        f.write("\t" + "\'" + key + "\'" + ": " + str(val) + "\n")
+        f.write("\t" + "\'" + key + "\'" + ": " + str(val) + "," + "\n")
     f.write ("}")
